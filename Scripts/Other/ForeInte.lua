@@ -71,6 +71,7 @@ function QFForeInte.CheckValue(num)
 end
 
 function QFForeInte.OnEnter()
+	    ModifierMain.AutoStart = true
 	print("MODModifier:ModifierMain enter")
 	ModifierMain:FindWindow("QFWDModifierMainUI"):Show()
 	--Register the shortcut
