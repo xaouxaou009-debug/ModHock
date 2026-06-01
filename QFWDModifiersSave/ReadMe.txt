@@ -1,0 +1,1 @@
+This folder contains the files needed by the companion mod.

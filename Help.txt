@@ -1,0 +1,128 @@
+[About simple use]
+    <Quick Modification Button> Check the box in the upper right corner of the easy-to-use button to activate the shortcut button. (There will be an additional edit button on the information of characters, objects, buildings, and plants, which is very convenient.)
+    <Multiple game speed> can be turned on or off in the upper right corner of the simple use. When the extra multi-speed button (the 4th button) is lit, pressing the E button will directly reduce the game speed of the 3rd button, not slowly.
+    <Auxiliary line> Auxiliary lines will appear when you use simple use to select items. Personally, I don't think it has much effect.
+    <How to obtain items> Follow the prompts. When the interface reaches the upper left corner, just move the mouse to the item to be obtained, and then press the "p" key again.
+    <How to obtain map coordinates> Follow the prompts. When the interface reaches the upper left corner, you only need to move the mouse to the point where you want to obtain the coordinates. The last row of the interface will display the map coordinates corresponding to the grid.
+    
+[About NPC]
+    <Detailed attribute modification> 1. After selecting the character, use the attribute list on the right side of the character management interface. 2. After modification, click Modify List and Confirm List. (After modifying an attribute, you need to click the modify list. The confirmation list can be clicked after all the attributes are modified.) ps: Most of the desired attributes are in this list.
+    <Character Management Shortcut Function> After selecting the character, click the shortcut button to realize the corresponding function.
+    <Character removal> a. Easy to use to remove. b. Use the map to modify and remove. c. Use the shortcut keys in the character management to remove directly (recommended).
+    <Basic requirements (elementary, fullness, etc.)> a. Use the shortcut keys in the character management (full demand, all empty demand). b. Use the demand relationship function module in character management.
+    <Five Dimensions and Skill Level> is a detailed attribute modification, which is still in the list on the right side of the character management.
+    <Title modification> 1. Use the Cheats button in the character management to enter the relevant interface. 2. Modify to the desired title.
+    <Gongfa Modification> 1. Use the Kungfu Cheats button in the character management to enter the relevant interface. 2. Use the relevant modules to modify the exercise method you want (the input box in front is the practice level after the exercise method is modified [you can enter 1-12, corresponding to the Qi training to Yuanshen]).
+    <Ordinary animal turns into a monster> After selecting npc in the character management interface (click AllNPC at the bottom left to display all npc), press the shortcut button to become a monster.
+    <Rebuild Body and Heal> Use the corresponding shortcut button in character management.
+    <Gongfa Cheats added> 1. Cheats for character management. 2. Add items and add exercises cheats.
+    <Character Race Modification> After selecting the character, modify the "race" attribute in the attribute list on the right side of the character management interface. (Note: This attribute can be entered in the race number (check in the character call), or the English name of the race!!! When the NPC you modify is a physical training with a race-specific secret body, the archive may be damaged, so you must Remove the special secret body of this race before modification. For example: chicken -> rabbit, the comb and feathers need to be removed)
+    
+[About Xingshang]
+    <Shangshang Summon> has corresponding modules available in martial art management.
+    
+[About Jianghu Management]
+    <NPC Friendship and Heart Breaking Prevention> 1. Find the corresponding NPC in the list on the left in Jianghu Management. 2. Use the shortcut button in the shortcut function.
+    <NPC attribute modification> 1. Click the copy data button in the upper right corner. 2. In the character management that automatically jumps to, modify the character attributes according to the usual modification method.
+    <NPC likes and dislikes> 1. Find the corresponding NPC in the list on the left in Jianghu Management. 2. Click the corresponding button below the list on the right.
+    <Clues and Secrets> Use the corresponding shortcut buttons in the management of rivers and lakes. (If the computer does not have the Microsoft Runtime library installed, this function may not be available)
+    <Depth Cleanup> can greatly solve the lag problem in the late game, but it may bring unknown effects.
+    
+[About Character Summon]
+    <Summon the reincarnation> 1. On the left side of the character summoning interface, select the reincarnation to be summoned and click. 2. Click the summon button behind the reincarnation (all types of reincarnation are supported).
+    <Other NPC Summon> 1. Select the npc race in the list on the right. 2. Enter the parameters in the corresponding input box. 3. Click the corresponding call button.
+
+[About BOSS Summon]
+    <Summon BOSS> 1. Click the "Enter" button behind Summon BOSS on the main interface of the modifier to enter the relevant interface. 2. Select the boss to be summoned in the list and click. 3. Click the call button.
+
+[About the type of attributes in character management]
+    <Type 1> Additional value v, addv. It is a real added value and does not receive other bonus effects. (Type 1 is generally sufficient.)
+    <Type 2> Additional value p, addp. The added value affected only by its own ratio. (ps: The character skill level can be changed to Type 2 first, and then modified to break the upper limit.)
+    <Type 3> Basic value v, basev. Will be affected by bonuses. The bonus may be the bonus of Gongfa and so on.
+    <Type 4> Basic value p, basep. Will be affected by the bonus, but also by its own ratio.
+    
+[About Physical Training]
+    <Get the essence of body repair> 1. Add the essence you want in the item addition. 2. In the item management, bind the essence to the designated physical training.
+    <Remove Useless Essence of Physical Training> 1. Select physical training in character management. 2. Enter into other systems. 3. After clicking the refresh list in the entry management, click Remove Essence.
+    <Modify the level of major parts of physical training> 1. Select physical training in character management. 2. Enter into other systems. 3. The grade attribute appears in the list on the right, which can be modified.
+    <The number of secret bodies available for physical training> can be found in the list on the right side of the character management.
+    <Modification of System Secret Body Entry> 1. Select the body in character management. 2. Enter into other systems. 3. Use related modules.
+    
+[About Shenxiu]
+    <Modification of Divine Cultivation attributes> The related properties of divine cultivation will appear in the attribute list on the right side of character management.
+    <Divine cultivation, divine nature and human nature modification> 1. Click into the demand relationship function module in the character management. 2. In the character requirement function block of the requirement relationship interface. (ps: Divinity and humanity are demand attributes)
+    
+[About monsters and spirits]
+    <Demon Form Transformation> You can find the body state attribute and state attribute in the character management and modify it to 2, then you can directly remove the transformation and transform into a human. You can also use the shortcut button [Monster Transformation].
+    <Half-Demon Related Attributes> After selecting the half-demon NPC, the relevant attributes will appear in the list on the right side of the character management. (Attributes such as the time of the robbery)
+    <Channeling and shaping> can use the corresponding functions of the channeling module in item management, plant management, and building management.
+    <Animal Kaizhi> can use the shortcut button in character management---Animal Kaizhi.
+    <Animal Thoughts> has a corresponding module in other systems of character management---thought management. (Add functional thoughts or thought fragments, clear thoughts or thought fragments, and complete thinking) (If the computer does not have the Microsoft runtime library installed, this function may not be available)
+    
+[About the weather]
+    <Weather modification> In the weather adding interface, you can add the desired weather and remove all the weather with one click.
+    
+[About Architecture]
+    <Building Unlock> Use the building unlocking function in building management.
+    <Building attribute modification> 1. Select the relevant building in the building management. 2. After modifying the relevant attributes in the list on the right, click Modify List and Confirm List.
+    <Building Add> can use the area management in map modification to realize related functions.
+    <Building removal> a. Easy to use to remove (recommended). b. Use the map to modify and remove. c. Use the remove current list function in the building management. d. Area management for map modification can remove buildings in an area.
+    
+[About plants]
+    <Plant attribute modification> 1. Select relevant plants in the plant management. 2. After modifying the relevant attributes in the list on the right, click Modify List and Confirm List.
+    <Plant addition> can use the area management in map modification to realize related functions.
+    <Plant removal> a. Easy to use to remove (recommended). b. Use the map to modify and remove. c. Use the remove current list function in the plant management. d. Area management of map modification can remove plants in an area.
+    
+[About location]
+    <Location unlock> Use location unlock function in location management, divided into single unlock and all unlock, anti-unlock is not supported temporarily.
+    <Impact value modification> Use the influence value modification module in site management, enter the influence value you want to modify, and click modify. (If the computer does not have the Microsoft Runtime library installed, this function may not be available)
+    <Region modification> Use the region modification function block in the location management, select the building area to be modified, and then modify the related attributes. The modification method is similar to the character management. (If the computer does not have the Microsoft Runtime library installed, this function may not be available)
+    
+[About Achievement]
+    <Achievement unlock> just use related functions in achievement management. Note that only achievements can be unlocked, not unlocked.
+    
+[About Martial Art]
+    <Martial art related attributes> can modify related attributes in martial art management. (Including the value of good and evil, reputation, the maximum number of sects, etc., reputation is also related to the value of good and evil!)
+    <Sect Favor> 1. Select the relevant sect in the list on the left in the sect management and click. 2. Relation will appear in the list on the right.
+    The reputation of the school is related to the good and evil value of the school. When the good and evil value is not 0, the reputation cannot be reduced to 0. Under normal circumstances, if the good and evil each have 100 points, the reputation will not be less than 200 points.
+    <Martial art status> Select the corresponding martial art in martial art management, and there is the selected martial art status in the attribute list on the right. [0-3, stateless, normal, closed, closed]
+[About items]
+    <Add item> 1. Enter the item add interface. 2. After selecting the desired item, click Add. (The addition of exercises, cheats, spells is also this add button, there is only one add button)
+    <Item coordinates> The coordinates are based on the coordinates of the mouse when the interface is displayed. You can change the coordinates to the desired position by displaying and hiding the interface through shortcut keys. (The coordinates determine where the item is added.)
+    <Item attribute modification> 1. Enter item management. 2. Select the item you want to modify the attributes. 3. After modifying the corresponding attributes, click Modify List and Confirm List.
+    <Weapon Magic Change Binding> Just use the binding module in the item management. (This module also has the function of binding body repair essence)
+    <Activation of the magic weapon> After selecting the magic weapon in the item management, click the magic weapon attribute button. (The magic weapon after activation will appear directly in place)
+    <Magic weapon attribute modification> 1. Select the magic weapon to be modified in the item management. 2. Click the magic weapon attribute button. 3. After modifying the attributes that need to be modified in the list, click Modify List and Confirm List.
+    <Item removal> a. Easy to use to remove (recommended). b. Use the map to modify and remove. c. Use the remove current list function in the item management. d. Area management of map modification can remove items in an area.
+    
+[About hatching eggs]
+    <Incubation and fertilization> Use the related functions of egg management in the item management, which integrates the dual functions of fertilization and incubation. (If the computer does not have the Microsoft Runtime library installed, this function may not be available)
+    
+[About terrain]
+    <Terrain modification> Terrain modification can use the area management in map modification to realize related functions.
+    <Custom area> Just enter the area you want to determine, and then check the selected area. (2 points to determine the area, the lower left and upper right, the area shape is rectangular.)
+    
+[About Miscellaneous Modifications]
+    <Quick Construction> starts the construction mode without consuming materials.
+    <Aura dynamic display> The special effects display like water flow in the game.
+    <No map fog> Eliminate the fog on the map.
+    <No Event> Events will no longer be triggered during the game. (May cause the main map to fail to load when the battle map returns.)
+    <No Day and Night Alternation> The time in the game is locked at the current time. (Time will still run, but there is no day and night alternation)
+    <Invincible> Both the enemy and us are invincible.
+    <Forced True immortal> After modification, save and re-read the archive. (Will change the game mode to true immortal mode)
+    
+[About drawing symbol management]
+    <Quick character data> is modified in the character management. (Note that the actual character quality is 0.95 times the setting)
+    <Remove all> Clear all the currently saved quick drawing data.
+    <Add all> Add spells that are not in the quick draw list to the quick draw list, the quality is the value in the input box.
+    <View spell attributes> In the drawing management, click the spell in the list to display the related spell attributes.
+    
+[About more modules]
+    <Activation of Map Assistant> Need to subscribe to another mod: Map Assistant.
+    <Activation of Miscellaneous Assistant> Need to subscribe to another mod: Miscellaneous Assistant.
+    
+[About the modifier]
+    <Function realization source code> All the source codes of the functions with interface in this modifier are in "./Scripts/Window", and the source codes of functions without interface are in "./Scripts/Other".
+    <Question feedback and suggestions> can be added to QQ group. Group number 1040526791
+    <Use Demo> You can watch the video on station B. https://www.bilibili.com/video/BV1Hi4y137Sd/
+    <Author's Tips> Creation is not easy, and use and cherish.
